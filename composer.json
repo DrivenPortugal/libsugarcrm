@@ -18,9 +18,9 @@
     "require": {
         "php": ">=5.3",
         "psr/log": "~1.0",
-        "symfony/finder": "~2",
-        "symfony/filesystem": "~2",
-        "symfony/yaml": "~2",
+        "symfony/finder": "~3",
+        "symfony/filesystem": "~3",
+        "symfony/yaml": "~3",
         "symfony/process": "^2.8"
     },
     "require-dev": {
