@@ -1,5 +1,5 @@
 {
-    "name": "inetprocess/libsugarcrm",
+    "name": "drivenportugal/libsugarcrm",
     "description": "This library provides a various classes to interact with SugarCRM",
     "type": "library",
     "keywords": ["sugarcrm", "sugarcli"],
